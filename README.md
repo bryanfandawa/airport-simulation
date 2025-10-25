@@ -44,7 +44,7 @@ The `Plane` class is used to represent each aircraft in the simulation. Each pla
 | 1 | 1 runway | Equal priority for landing and takeoff |
 | 2 | 2 runways | Equal priority |
 | 3 | 1 runway | 66.67% chance that landing is prioritized |
-| 4 | 2 runways | 66.67% landing priority |
+| 4 | 2 runways | 66.67% chance that landing is prioritized |
 
 ---
 
